@@ -20,3 +20,5 @@
    s=`expr $p \* $t \* $r / 100`
    echo "The simple interest is: "
    echo $s
+
+   #This is for Git Bash
